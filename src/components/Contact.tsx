@@ -65,7 +65,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold mb-1">Email</h4>
-                  <a href="mailto:souvik.dey@example.com" className="text-zinc-400 hover:text-cyan-400 transition-colors">
+                  <a href="mailto:souvik063dey@gmail.com" className="text-zinc-400 hover:text-cyan-400 transition-colors">
                     souvik.dey@example.com
                   </a>
                 </div>
@@ -108,7 +108,7 @@ export default function Contact() {
                   </svg>
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/souvikdey06/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-zinc-800 hover:bg-blue-600 rounded-lg flex items-center justify-center transition-all duration-300 hover:scale-110"

@@ -16,6 +16,11 @@ export default function Portfolio() {
 
   const categories = ['All', 'Video Editing', '3D Modeling', 'VFX', 'Graphics'];
 
+/* =====================================================
+   PROJECT SECTION
+===================================================== */
+
+
   const projects: Project[] = [
     {
       id: 1,
@@ -66,6 +71,10 @@ export default function Portfolio() {
       thumbnail: 'https://images.pexels.com/photos/8728382/pexels-photo-8728382.jpeg?auto=compress&cs=tinysrgb&w=800'
     }
   ];
+  
+/* =====================================================
+   PROJECT SECTION
+===================================================== */
 
   const filteredProjects = selectedCategory === 'All'
     ? projects
